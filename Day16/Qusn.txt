@@ -1,0 +1,7 @@
+Q0> Find Factorial of a number n
+Q1> Find all factors number n
+Q2> Find if a number is prime or not print True if prime else False 
+
+H/W
+Q1> Accept a number n and print sum of numbers from 1 to n
+Q2> Accept two numbers a and b and find a to the power b without using ** operator
