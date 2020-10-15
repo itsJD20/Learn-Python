@@ -1,0 +1,13 @@
+Q1> Input value x and n and find
+    S = 1 + (x^1)/1! + (x^2)/2! + (x^3)/3! + ... + (x^n)/n!
+
+Q2> Input value x and n and  find 
+    S = x - (x**3)/3! + (x**5)/5! - ... + (-1)**(n+1) * (x**(2*n-1))/(2*n-1)!
+
+---------------------------HW---------------------------------------------
+
+Q1> find S given n
+    S = 1 - 2 + 3 - 4 + ... n terms
+
+Q2> find S given n
+    S = 1 - 2**2 + 3**3 - 4**4 + ... n terms 

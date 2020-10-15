@@ -1,0 +1,25 @@
+Q1) Write a program to accept 2 numbers a and b from the user and print the value of the smallest number and the largest number
+Eg.  
+a = 5 b = 7
+output:
+smallest 5
+largest 7
+Q2) Write a program to accept 2 numbers a and b from the user and print the value of the smallest number divided by the largest
+Eg.  
+a = 5 b = 10
+output:
+ans = 2
+
+a = 10 b = 5
+output:
+ans = 2
+
+Q3) Write a program to accept a number n from the user and print whether it is prime or not
+Eg.  
+n = 5
+output:
+True
+
+n = 10
+output:
+False
