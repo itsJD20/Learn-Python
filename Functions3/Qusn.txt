@@ -1,1 +1,9 @@
 1> input a number n and find the sum of factorials of all prime numbers from 1 to n
+
+--------------------------------------HW-------------------------------------------
+
+1> Write a function to find the HCF of 2 numbers
+
+def HCF(a, b): return HCF of the 2 numbers
+
+2> Accept 5 numbers from the user and find the sum of smallest and largest
