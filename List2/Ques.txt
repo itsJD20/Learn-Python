@@ -1,0 +1,14 @@
+1> Input a number n and define a list of size n with all elements as 0
+n = 5
+output:
+[0, 0, 0, 0, 0]
+
+2> accept a number n and take n inputs and convert it into a list
+Ex: n = 6
+    1
+    6
+    0
+    3
+    19
+    100
+ans: [1, 6, 0, 3, 19, 100]
