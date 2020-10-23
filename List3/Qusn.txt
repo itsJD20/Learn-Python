@@ -1,0 +1,7 @@
+accept an int n followed by n int inputs and store them in an array.Calculate the cube of each element in the array and print the result array.
+accept an int n followed by n int inputs and store them in an array.Calculate the cube of each element in the array and print the result array.(without map function)
+accept int list l1 & l2 from the user and print the final list which contains the sum of i th element of l1 & l2 .
+
+H.W.
+1. accept int list l1, l2, l3 from the user and print the final list which contains the sum of i th element of l1, l2, l3 .
+
