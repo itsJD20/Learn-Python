@@ -1,0 +1,36 @@
+write a program to accept a list from user and print list the square of the elements of the list
+
+print all elemnets in a list
+
+Cumulative sum
+
+HW
+
+1. accept int list l1, l2, l3 from the user and print the final list which contains the sum of i th element of l1, l2, l3 .
+2. Input a number n and define a list of size n with all elements as 0
+n = 5
+output:
+[0, 0, 0, 0, 0]
+3. Write a function to accept a int list from the user and find factorial of each element
+
+example:
+1 2 3 4 5
+1 2 6 24 120
+
+Write a program to calculate the product of all elements in a list
+
+example:
+1 2 4 5
+40
+ #inputs
+ #m =1
+ #run forloop from (len(l))
+ #m = l[i]*m
+ #print m
+
+Write find the square of cumulative sum of a list
+
+example:
+input = 1 2 3 4 5
+cumulative sum = 1 3 6 10 15
+ans = 1 9 36 100 225

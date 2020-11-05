@@ -1,0 +1,2 @@
+Only using while loop find factorial of a number
+Accept an int list as input and find sum of all numbers in teh list Only using while loop

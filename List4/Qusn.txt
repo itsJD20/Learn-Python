@@ -14,8 +14,5 @@ Ex: 1 2 3 4 5 6 7
 
 
 
-HW
 
-input an Integer lists from the user and find the cumulative sum of the list and then find sum of cubes of elements of the final list
-Ex: 1 2 3 4
-1244
+
