@@ -23,4 +23,3 @@ def num_(n):
 
 a = int(input("Enter the num: "))
 print(num_(a))
-

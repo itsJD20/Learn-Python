@@ -1,0 +1,5 @@
+s = set('HackerRank')
+print(s)
+print('-----------------------------------')
+s.add('HackerRank')
+print(s)
