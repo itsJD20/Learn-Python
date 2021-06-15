@@ -1,5 +1,4 @@
 
-
 T = int(input())
 s = 0
 
