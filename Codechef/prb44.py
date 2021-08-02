@@ -1,4 +1,4 @@
-def digit(a):
+def digit(a):#1234
     count = 0
 
     while a != 0:
@@ -7,6 +7,7 @@ def digit(a):
     return count
 
 N = int(input())
+print(digit(N))
 
 if digit(N) == 1:
     print(1)
