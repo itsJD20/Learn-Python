@@ -58,9 +58,3 @@ for i in range(k):#6
 
 
 
-
-
-
-
-
-
