@@ -4,7 +4,7 @@ AB?ED?
 
 """
 T = int(input())
-for i in range():
+for i in range(T):
     X = input()
     Y = input()
 
