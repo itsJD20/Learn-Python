@@ -6,7 +6,7 @@ for i in range(T):
     l = list(map(int, input().split())) # 1,2,3
 
    
-    count = 0 #3
+    count = 0 #4
     for j in range(len(l)):  #2
         
         s = l[j] #3
