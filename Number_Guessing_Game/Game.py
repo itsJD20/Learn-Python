@@ -12,7 +12,7 @@ r = rand(a,b)
 f =input("Enter the name of 1st Player: ")
 s =input("Enter the name of 2nd Player: ")
 
-attempts = 50
+attempts = 100
 p_num = 1
 while True:
     if p_num == 1:
