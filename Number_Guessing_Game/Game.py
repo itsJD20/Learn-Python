@@ -12,9 +12,11 @@ r = rand(a,b)
 f =input("Enter the name of 1st Player: ")
 s =input("Enter the name of 2nd Player: ")
 
-attempts = 100
+attempts = 10
 p_num = 1
 while True:
+    if attempts == 0:
+        print("Lmao! You Lose")
     if p_num == 1:
         player = f
         p_num = 2
