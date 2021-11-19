@@ -1,4 +1,4 @@
-
+#same prblm different soln for prb17
 d = int(input())
 h = 0
 
