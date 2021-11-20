@@ -3,12 +3,12 @@ a = int(input())#123
 count = 0
 n = 0
 newa = a
-while a != 0:
-    n = a%10
-    newa = a//10
+while newa != 0:
+    n = newa%10
+    newa = newa//10
    
-if a%n ==0:
-    count += 1
+    if n != 0 and a%n ==0:
+        count += 1
     
 
 
